@@ -1,7 +1,3 @@
-from platform import java_ver
-from re import I
-
-
 def solution(s):
 
     num_list = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
